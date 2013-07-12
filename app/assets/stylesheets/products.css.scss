@@ -4,7 +4,7 @@
 
 .products {
   h1 {
-    text-align: center;
+    text-align: left;
   }
   table {
     border-collapse: collapse;
@@ -13,10 +13,6 @@
   table tr td {
     padding: 5px;
     vertical-align: top;
-  }
-  
-  p {
-    text-align: center;
   }
   
   .list_image {
